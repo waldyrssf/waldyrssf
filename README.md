@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new tools for upgrading my skills levels on programming.
 - 🌱 I’m currently learning the basic of HTML, CSS, JS, Python.
 - 💞️ I’m looking to collaborate on projects envolving HTML, CSS, JS.
-- 📫 For reaching me you can Whatsapp me on +5581995291271 or by the email waldyr.soares11@hotmail.com
+- 📫 Keep in touch with me by Whatsapp +5581995291271 or by the email waldyr.soares11@hotmail.com
 
 <!---
 waldyrssf/waldyrssf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
